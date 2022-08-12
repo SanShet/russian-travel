@@ -1,0 +1,24 @@
+.place__image {
+  width: 100%;
+  min-height: 460px;
+  grid-row-start: 2;
+  grid-row-end: 2;
+}
+
+@media screen and (max-width: 1279px) and (min-width: 1024px) {
+  .place__image {
+    min-height: 440px;
+  }
+}
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+  .place__image {
+    min-height: 340px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .place__image {
+    min-height: 320px;
+    grid-row-start: 3;
+    grid-row-end: 3;
+  }
+}

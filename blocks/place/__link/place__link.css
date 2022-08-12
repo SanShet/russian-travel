@@ -1,0 +1,10 @@
+.place__link {
+  color: white;
+  font-size: 18px;
+  line-height: 22px;
+  width: 100%;
+}
+
+.place__link:hover {
+  opacity: 80%;
+}
