@@ -41,3 +41,5 @@
 @import url(../blocks/footer/__menu/footer__menu.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__list/footer__list.css);
+
+@import url(../blocks/body/body.css);
