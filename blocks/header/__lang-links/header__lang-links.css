@@ -1,6 +1,5 @@
 .header__lang-links {
-  display: flex;
-  flex-wrap: wrap;
+  display: inline-block;
   font-size: 24px;
   line-height: 1.2;
 }

@@ -3,7 +3,7 @@
   flex-direction: row;
   justify-content: space-between;
   margin: auto;
-  padding: 28px 0 56px;
+  padding: 28px 0 calc(56px / 2);
   width: calc(100% - 48px * 2);
 }
 

@@ -1,8 +1,9 @@
 .place__content {
   display: grid;
   grid-template-columns: fit-content(460px) fit-content(484px);
-  gap: 40px 48px;
+  grid-column-gap: 40px;
   justify-content: center;
+  row-gap: 48px;
 
   width: 100%;
   margin-bottom: 80px;

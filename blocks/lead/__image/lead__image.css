@@ -1,4 +1,5 @@
 .lead__image {
+  display: block;
   max-width: 984px;
   max-height: 615px;
   margin: 0;
